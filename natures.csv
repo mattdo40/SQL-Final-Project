@@ -1,0 +1,26 @@
+nature,stat_increased,stat_decreased,flavor_favorite,flavor_disliked
+Hardy,Attack,Attack,Spicy,Spicy
+Lonely,Attack,Defense,Spicy,Sour
+Brave,Attack,Speed,Spicy,Sweet
+Adamant,Attack,Sp. Attack,Spicy,Dry
+Naughty,Attack,Sp. Defense,Spicy,Bitter
+Bold,Defense,Attack,Sour,Spicy
+Docile,Defense,Defense,Sour,Sour
+Relaxed,Defense,Speed,Sour,Sweet
+Impish,Defense,Sp. Attack,Sour,Dry
+Lax,Defense,Sp. Defense,Sour,Bitter
+Timid,Speed,Attack,Sweet,Spicy
+Hasty,Speed,Defense,Sweet,Sour
+Serious,Speed,Speed,Sweet,Sweet
+Jolly,Speed,Sp. Attack,Sweet,Dry
+Naive,Speed,Sp. Defense,Sweet,Bitter
+Modest,Sp. Attack,Attack,Dry,Spicy
+Mild,Sp. Attack,Defense,Dry,Sour
+Quiet,Sp. Attack,Speed,Dry,Sweet
+Bashful,Sp. Attack,Sp. Attack,Dry,Dry
+Rash,Sp. Attack,Sp. Defense,Dry,Bitter
+Calm,Sp. Defense,Attack,Bitter,Spicy
+Gentle,Sp. Defense,Defense,Bitter,Sour
+Sassy,Sp. Defense,Speed,Bitter,Sweet
+Careful,Sp. Defense,Sp. Attack,Bitter,Dry
+Quirky,Sp. Defense,Sp. Defense,Bitter,Bitter

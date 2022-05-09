@@ -1,0 +1,1028 @@
+0,Bulbasaur,1
+1,Ivysaur,1
+2,Venusaur,1
+3,Mega Venusaur,1
+4,Charmander,1
+5,Charmeleon,1
+6,Charizard,1
+7,Mega Charizard X,1
+8,Mega Charizard Y,1
+9,Squirtle,1
+10,Wartortle,1
+11,Blastoise,1
+12,Mega Blastoise,1
+13,Caterpie,1
+14,Metapod,1
+15,Butterfree,1
+16,Weedle,1
+17,Kakuna,1
+18,Beedrill,1
+19,Mega Beedrill,1
+20,Pidgey,1
+21,Pidgeotto,1
+22,Pidgeot,1
+23,Mega Pidgeot,1
+24,Rattata,1
+25,Alolan Rattata,1
+26,Raticate,1
+27,Alolan Raticate,1
+28,Spearow,1
+29,Fearow,1
+30,Ekans,1
+31,Arbok,1
+32,Pikachu,1
+33,Partner Pikachu,1
+34,Raichu,1
+35,Alolan Raichu,1
+36,Sandshrew,1
+37,Alolan Sandshrew,1
+38,Sandslash,1
+39,Alolan Sandslash,1
+40,Nidoran♀,1
+41,Nidorina,1
+42,Nidoqueen,1
+43,Nidoran♂,1
+44,Nidorino,1
+45,Nidoking,1
+46,Clefairy,1
+47,Clefable,1
+48,Vulpix,1
+49,Alolan Vulpix,1
+50,Ninetales,1
+51,Alolan Ninetales,1
+52,Jigglypuff,1
+53,Wigglytuff,1
+54,Zubat,1
+55,Golbat,1
+56,Oddish,1
+57,Gloom,1
+58,Vileplume,1
+59,Paras,1
+60,Parasect,1
+61,Venonat,1
+62,Venomoth,1
+63,Diglett,1
+64,Alolan Diglett,1
+65,Dugtrio,1
+66,Alolan Dugtrio,1
+67,Meowth,1
+68,Alolan Meowth,1
+69,Galarian Meowth,1
+70,Persian,1
+71,Alolan Persian,1
+72,Psyduck,1
+73,Golduck,1
+74,Mankey,1
+75,Primeape,1
+76,Growlithe,1
+77,Arcanine,1
+78,Poliwag,1
+79,Poliwhirl,1
+80,Poliwrath,1
+81,Abra,1
+82,Kadabra,1
+83,Alakazam,1
+84,Mega Alakazam,1
+85,Machop,1
+86,Machoke,1
+87,Machamp,1
+88,Bellsprout,1
+89,Weepinbell,1
+90,Victreebel,1
+91,Tentacool,1
+92,Tentacruel,1
+93,Geodude,1
+94,Alolan Geodude,1
+95,Graveler,1
+96,Alolan Graveler,1
+97,Golem,1
+98,Alolan Golem,1
+99,Ponyta,1
+100,Galarian Ponyta,1
+101,Rapidash,1
+102,Galarian Rapidash,1
+103,Slowpoke,1
+104,Slowbro,1
+105,Mega Slowbro,1
+106,Magnemite,1
+107,Magneton,1
+108,Farfetch'd,1
+109,Galarian Farfetch'd,1
+110,Doduo,1
+111,Dodrio,1
+112,Seel,1
+113,Dewgong,1
+114,Grimer,1
+115,Alolan Grimer,1
+116,Muk,1
+117,Alolan Muk,1
+118,Shellder,1
+119,Cloyster,1
+120,Gastly,1
+121,Haunter,1
+122,Gengar,1
+123,Mega Gengar,1
+124,Onix,1
+125,Drowzee,1
+126,Hypno,1
+127,Krabby,1
+128,Kingler,1
+129,Voltorb,1
+130,Electrode,1
+131,Exeggcute,1
+132,Exeggutor,1
+133,Alolan Exeggutor,1
+134,Cubone,1
+135,Marowak,1
+136,Alolan Marowak,1
+137,Hitmonlee,1
+138,Hitmonchan,1
+139,Lickitung,1
+140,Koffing,1
+141,Weezing,1
+142,Galarian Weezing,1
+143,Rhyhorn,1
+144,Rhydon,1
+145,Chansey,1
+146,Tangela,1
+147,Kangaskhan,1
+148,Mega Kangaskhan,1
+149,Horsea,1
+150,Seadra,1
+151,Goldeen,1
+152,Seaking,1
+153,Staryu,1
+154,Starmie,1
+155,Mr. Mime,1
+156,Galarian Mr. Mime,1
+157,Scyther,1
+158,Jynx,1
+159,Electabuzz,1
+160,Magmar,1
+161,Pinsir,1
+162,Mega Pinsir,1
+163,Tauros,1
+164,Magikarp,1
+165,Gyarados,1
+166,Mega Gyarados,1
+167,Lapras,1
+168,Ditto,1
+169,Eevee,1
+170,Partner Eevee,1
+171,Vaporeon,1
+172,Jolteon,1
+173,Flareon,1
+174,Porygon,1
+175,Omanyte,1
+176,Omastar,1
+177,Kabuto,1
+178,Kabutops,1
+179,Aerodactyl,1
+180,Mega Aerodactyl,1
+181,Snorlax,1
+182,Articuno,1
+183,Zapdos,1
+184,Moltres,1
+185,Dratini,1
+186,Dragonair,1
+187,Dragonite,1
+188,Mewtwo,1
+189,Mega Mewtwo X,1
+190,Mega Mewtwo Y,1
+191,Mew,1
+192,Chikorita,2
+193,Bayleef,2
+194,Meganium,2
+195,Cyndaquil,2
+196,Quilava,2
+197,Typhlosion,2
+198,Totodile,2
+199,Croconaw,2
+200,Feraligatr,2
+201,Sentret,2
+202,Furret,2
+203,Hoothoot,2
+204,Noctowl,2
+205,Ledyba,2
+206,Ledian,2
+207,Spinarak,2
+208,Ariados,2
+209,Crobat,2
+210,Chinchou,2
+211,Lanturn,2
+212,Pichu,2
+213,Cleffa,2
+214,Igglybuff,2
+215,Togepi,2
+216,Togetic,2
+217,Natu,2
+218,Xatu,2
+219,Mareep,2
+220,Flaaffy,2
+221,Ampharos,2
+222,Mega Ampharos,2
+223,Bellossom,2
+224,Marill,2
+225,Azumarill,2
+226,Sudowoodo,2
+227,Politoed,2
+228,Hoppip,2
+229,Skiploom,2
+230,Jumpluff,2
+231,Aipom,2
+232,Sunkern,2
+233,Sunflora,2
+234,Yanma,2
+235,Wooper,2
+236,Quagsire,2
+237,Espeon,2
+238,Umbreon,2
+239,Murkrow,2
+240,Slowking,2
+241,Misdreavus,2
+242,Unown,2
+243,Wobbuffet,2
+244,Girafarig,2
+245,Pineco,2
+246,Forretress,2
+247,Dunsparce,2
+248,Gligar,2
+249,Steelix,2
+250,Mega Steelix,2
+251,Snubbull,2
+252,Granbull,2
+253,Qwilfish,2
+254,Scizor,2
+255,Mega Scizor,2
+256,Shuckle,2
+257,Heracross,2
+258,Mega Heracross,2
+259,Sneasel,2
+260,Teddiursa,2
+261,Ursaring,2
+262,Slugma,2
+263,Magcargo,2
+264,Swinub,2
+265,Piloswine,2
+266,Corsola,2
+267,Galarian Corsola,2
+268,Remoraid,2
+269,Octillery,2
+270,Delibird,2
+271,Mantine,2
+272,Skarmory,2
+273,Houndour,2
+274,Houndoom,2
+275,Mega Houndoom,2
+276,Kingdra,2
+277,Phanpy,2
+278,Donphan,2
+279,Porygon2,2
+280,Stantler,2
+281,Smeargle,2
+282,Tyrogue,2
+283,Hitmontop,2
+284,Smoochum,2
+285,Elekid,2
+286,Magby,2
+287,Miltank,2
+288,Blissey,2
+289,Raikou,2
+290,Entei,2
+291,Suicune,2
+292,Larvitar,2
+293,Pupitar,2
+294,Tyranitar,2
+295,Mega Tyranitar,2
+296,Lugia,2
+297,Ho-oh,2
+298,Celebi,2
+299,Treecko,3
+300,Grovyle,3
+301,Sceptile,3
+302,Mega Sceptile,3
+303,Torchic,3
+304,Combusken,3
+305,Blaziken,3
+306,Mega Blaziken,3
+307,Mudkip,3
+308,Marshtomp,3
+309,Swampert,3
+310,Mega Swampert,3
+311,Poochyena,3
+312,Mightyena,3
+313,Zigzagoon,3
+314,Galarian Zigzagoon,3
+315,Linoone,3
+316,Galarian Linoone,3
+317,Wurmple,3
+318,Silcoon,3
+319,Beautifly,3
+320,Cascoon,3
+321,Dustox,3
+322,Lotad,3
+323,Lombre,3
+324,Ludicolo,3
+325,Seedot,3
+326,Nuzleaf,3
+327,Shiftry,3
+328,Taillow,3
+329,Swellow,3
+330,Wingull,3
+331,Pelipper,3
+332,Ralts,3
+333,Kirlia,3
+334,Gardevoir,3
+335,Mega Gardevoir,3
+336,Surskit,3
+337,Masquerain,3
+338,Shroomish,3
+339,Breloom,3
+340,Slakoth,3
+341,Vigoroth,3
+342,Slaking,3
+343,Nincada,3
+344,Ninjask,3
+345,Shedinja,3
+346,Whismur,3
+347,Loudred,3
+348,Exploud,3
+349,Makuhita,3
+350,Hariyama,3
+351,Azurill,3
+352,Nosepass,3
+353,Skitty,3
+354,Delcatty,3
+355,Sableye,3
+356,Mega Sableye,3
+357,Mawile,3
+358,Mega Mawile,3
+359,Aron,3
+360,Lairon,3
+361,Aggron,3
+362,Mega Aggron,3
+363,Meditite,3
+364,Medicham,3
+365,Mega Medicham,3
+366,Electrike,3
+367,Manectric,3
+368,Mega Manectric,3
+369,Plusle,3
+370,Minun,3
+371,Volbeat,3
+372,Illumise,3
+373,Roselia,3
+374,Gulpin,3
+375,Swalot,3
+376,Carvanha,3
+377,Sharpedo,3
+378,Mega Sharpedo,3
+379,Wailmer,3
+380,Wailord,3
+381,Numel,3
+382,Camerupt,3
+383,Mega Camerupt,3
+384,Torkoal,3
+385,Spoink,3
+386,Grumpig,3
+387,Spinda,3
+388,Trapinch,3
+389,Vibrava,3
+390,Flygon,3
+391,Cacnea,3
+392,Cacturne,3
+393,Swablu,3
+394,Altaria,3
+395,Mega Altaria,3
+396,Zangoose,3
+397,Seviper,3
+398,Lunatone,3
+399,Solrock,3
+400,Barboach,3
+401,Whiscash,3
+402,Corphish,3
+403,Crawdaunt,3
+404,Baltoy,3
+405,Claydol,3
+406,Lileep,3
+407,Cradily,3
+408,Anorith,3
+409,Armaldo,3
+410,Feebas,3
+411,Milotic,3
+412,Castform,3
+413,Castform Sunny Form,3
+414,Castform Rainy Form,3
+415,Castform Snowy Form,3
+416,Kecleon,3
+417,Shuppet,3
+418,Banette,3
+419,Mega Banette,3
+420,Duskull,3
+421,Dusclops,3
+422,Tropius,3
+423,Chimecho,3
+424,Absol,3
+425,Mega Absol,3
+426,Wynaut,3
+427,Snorunt,3
+428,Glalie,3
+429,Mega Glalie,3
+430,Spheal,3
+431,Sealeo,3
+432,Walrein,3
+433,Clamperl,3
+434,Huntail,3
+435,Gorebyss,3
+436,Relicanth,3
+437,Luvdisc,3
+438,Bagon,3
+439,Shelgon,3
+440,Salamence,3
+441,Mega Salamence,3
+442,Beldum,3
+443,Metang,3
+444,Metagross,3
+445,Mega Metagross,3
+446,Regirock,3
+447,Regice,3
+448,Registeel,3
+449,Latias,3
+450,Mega Latias,3
+451,Latios,3
+452,Mega Latios,3
+453,Kyogre,3
+454,Primal Kyogre,3
+455,Groudon,3
+456,Primal Groudon,3
+457,Rayquaza,3
+458,Mega Rayquaza,3
+459,Jirachi,3
+460,Deoxys Normal Forme,3
+461,Deoxys Attack Forme,3
+462,Deoxys Defense Forme,3
+463,Deoxys Speed Forme,3
+464,Turtwig,4
+465,Grotle,4
+466,Torterra,4
+467,Chimchar,4
+468,Monferno,4
+469,Infernape,4
+470,Piplup,4
+471,Prinplup,4
+472,Empoleon,4
+473,Starly,4
+474,Staravia,4
+475,Staraptor,4
+476,Bidoof,4
+477,Bibarel,4
+478,Kricketot,4
+479,Kricketune,4
+480,Shinx,4
+481,Luxio,4
+482,Luxray,4
+483,Budew,4
+484,Roserade,4
+485,Cranidos,4
+486,Rampardos,4
+487,Shieldon,4
+488,Bastiodon,4
+489,Burmy,4
+490,Wormadam Plant Cloak,4
+491,Wormadam Sandy Cloak,4
+492,Wormadam Trash Cloak,4
+493,Mothim,4
+494,Combee,4
+495,Vespiquen,4
+496,Pachirisu,4
+497,Buizel,4
+498,Floatzel,4
+499,Cherubi,4
+500,Cherrim,4
+501,Shellos,4
+502,Gastrodon,4
+503,Ambipom,4
+504,Drifloon,4
+505,Drifblim,4
+506,Buneary,4
+507,Lopunny,4
+508,Mega Lopunny,4
+509,Mismagius,4
+510,Honchkrow,4
+511,Glameow,4
+512,Purugly,4
+513,Chingling,4
+514,Stunky,4
+515,Skuntank,4
+516,Bronzor,4
+517,Bronzong,4
+518,Bonsly,4
+519,Mime Jr.,4
+520,Happiny,4
+521,Chatot,4
+522,Spiritomb,4
+523,Gible,4
+524,Gabite,4
+525,Garchomp,4
+526,Mega Garchomp,4
+527,Munchlax,4
+528,Riolu,4
+529,Lucario,4
+530,Mega Lucario,4
+531,Hippopotas,4
+532,Hippowdon,4
+533,Skorupi,4
+534,Drapion,4
+535,Croagunk,4
+536,Toxicroak,4
+537,Carnivine,4
+538,Finneon,4
+539,Lumineon,4
+540,Mantyke,4
+541,Snover,4
+542,Abomasnow,4
+543,Mega Abomasnow,4
+544,Weavile,4
+545,Magnezone,4
+546,Lickilicky,4
+547,Rhyperior,4
+548,Tangrowth,4
+549,Electivire,4
+550,Magmortar,4
+551,Togekiss,4
+552,Yanmega,4
+553,Leafeon,4
+554,Glaceon,4
+555,Gliscor,4
+556,Mamoswine,4
+557,Porygon-Z,4
+558,Gallade,4
+559,Mega Gallade,4
+560,Probopass,4
+561,Dusknoir,4
+562,Froslass,4
+563,Rotom,4
+564,Heat Rotom,4
+565,Wash Rotom,4
+566,Frost Rotom,4
+567,Fan Rotom,4
+568,Mow Rotom,4
+569,Uxie,4
+570,Mesprit,4
+571,Azelf,4
+572,Dialga,4
+573,Palkia,4
+574,Heatran,4
+575,Regigigas,4
+576,Giratina Altered Forme,4
+577,Giratina Origin Forme,4
+578,Cresselia,4
+579,Phione,4
+580,Manaphy,4
+581,Darkrai,4
+582,Shaymin Land Forme,4
+583,Shaymin Sky Forme,4
+584,Arceus,4
+585,Victini,5
+586,Snivy,5
+587,Servine,5
+588,Serperior,5
+589,Tepig,5
+590,Pignite,5
+591,Emboar,5
+592,Oshawott,5
+593,Dewott,5
+594,Samurott,5
+595,Patrat,5
+596,Watchog,5
+597,Lillipup,5
+598,Herdier,5
+599,Stoutland,5
+600,Purrloin,5
+601,Liepard,5
+602,Pansage,5
+603,Simisage,5
+604,Pansear,5
+605,Simisear,5
+606,Panpour,5
+607,Simipour,5
+608,Munna,5
+609,Musharna,5
+610,Pidove,5
+611,Tranquill,5
+612,Unfezant,5
+613,Blitzle,5
+614,Zebstrika,5
+615,Roggenrola,5
+616,Boldore,5
+617,Gigalith,5
+618,Woobat,5
+619,Swoobat,5
+620,Drilbur,5
+621,Excadrill,5
+622,Audino,5
+623,Mega Audino,5
+624,Timburr,5
+625,Gurdurr,5
+626,Conkeldurr,5
+627,Tympole,5
+628,Palpitoad,5
+629,Seismitoad,5
+630,Throh,5
+631,Sawk,5
+632,Sewaddle,5
+633,Swadloon,5
+634,Leavanny,5
+635,Venipede,5
+636,Whirlipede,5
+637,Scolipede,5
+638,Cottonee,5
+639,Whimsicott,5
+640,Petilil,5
+641,Lilligant,5
+642,Basculin Red-Striped Form,5
+643,Basculin Blue-Striped Form,5
+644,Sandile,5
+645,Krokorok,5
+646,Krookodile,5
+647,Darumaka,5
+648,Galarian Darumaka,5
+649,Darmanitan Standard Mode,5
+650,Darmanitan Zen Mode,5
+651,Darmanitan Galarian Standard Mode,5
+652,Darmanitan Galarian Zen Mode,5
+653,Maractus,5
+654,Dwebble,5
+655,Crustle,5
+656,Scraggy,5
+657,Scrafty,5
+658,Sigilyph,5
+659,Yamask,5
+660,Galarian Yamask,5
+661,Cofagrigus,5
+662,Tirtouga,5
+663,Carracosta,5
+664,Archen,5
+665,Archeops,5
+666,Trubbish,5
+667,Garbodor,5
+668,Zorua,5
+669,Zoroark,5
+670,Minccino,5
+671,Cinccino,5
+672,Gothita,5
+673,Gothorita,5
+674,Gothitelle,5
+675,Solosis,5
+676,Duosion,5
+677,Reuniclus,5
+678,Ducklett,5
+679,Swanna,5
+680,Vanillite,5
+681,Vanillish,5
+682,Vanilluxe,5
+683,Deerling,5
+684,Sawsbuck,5
+685,Emolga,5
+686,Karrablast,5
+687,Escavalier,5
+688,Foongus,5
+689,Amoonguss,5
+690,Frillish,5
+691,Jellicent,5
+692,Alomomola,5
+693,Joltik,5
+694,Galvantula,5
+695,Ferroseed,5
+696,Ferrothorn,5
+697,Klink,5
+698,Klang,5
+699,Klinklang,5
+700,Tynamo,5
+701,Eelektrik,5
+702,Eelektross,5
+703,Elgyem,5
+704,Beheeyem,5
+705,Litwick,5
+706,Lampent,5
+707,Chandelure,5
+708,Axew,5
+709,Fraxure,5
+710,Haxorus,5
+711,Cubchoo,5
+712,Beartic,5
+713,Cryogonal,5
+714,Shelmet,5
+715,Accelgor,5
+716,Stunfisk,5
+717,Galarian Stunfisk,5
+718,Mienfoo,5
+719,Mienshao,5
+720,Druddigon,5
+721,Golett,5
+722,Golurk,5
+723,Pawniard,5
+724,Bisharp,5
+725,Bouffalant,5
+726,Rufflet,5
+727,Braviary,5
+728,Vullaby,5
+729,Mandibuzz,5
+730,Heatmor,5
+731,Durant,5
+732,Deino,5
+733,Zweilous,5
+734,Hydreigon,5
+735,Larvesta,5
+736,Volcarona,5
+737,Cobalion,5
+738,Terrakion,5
+739,Virizion,5
+740,Tornadus Incarnate Forme,5
+741,Tornadus Therian Forme,5
+742,Thundurus Incarnate Forme,5
+743,Thundurus Therian Forme,5
+744,Reshiram,5
+745,Zekrom,5
+746,Landorus Incarnate Forme,5
+747,Landorus Therian Forme,5
+748,Kyurem,5
+749,Black Kyurem,5
+750,White Kyurem,5
+751,Keldeo Ordinary Forme,5
+752,Keldeo Resolute Forme,5
+753,Meloetta Aria Forme,5
+754,Meloetta Pirouette Forme,5
+755,Genesect,5
+756,Chespin,6
+757,Quilladin,6
+758,Chesnaught,6
+759,Fennekin,6
+760,Braixen,6
+761,Delphox,6
+762,Froakie,6
+763,Frogadier,6
+764,Greninja,6
+765,Ash-Greninja,6
+766,Bunnelby,6
+767,Diggersby,6
+768,Fletchling,6
+769,Fletchinder,6
+770,Talonflame,6
+771,Scatterbug,6
+772,Spewpa,6
+773,Vivillon,6
+774,Litleo,6
+775,Pyroar,6
+776,Flabébé,6
+777,Floette,6
+778,Florges,6
+779,Skiddo,6
+780,Gogoat,6
+781,Pancham,6
+782,Pangoro,6
+783,Furfrou,6
+784,Espurr,6
+785,Meowstic Male,6
+786,Meowstic Female,6
+787,Honedge,6
+788,Doublade,6
+789,Aegislash Blade Forme,6
+790,Aegislash Shield Forme,6
+791,Spritzee,6
+792,Aromatisse,6
+793,Swirlix,6
+794,Slurpuff,6
+795,Inkay,6
+796,Malamar,6
+797,Binacle,6
+798,Barbaracle,6
+799,Skrelp,6
+800,Dragalge,6
+801,Clauncher,6
+802,Clawitzer,6
+803,Helioptile,6
+804,Heliolisk,6
+805,Tyrunt,6
+806,Tyrantrum,6
+807,Amaura,6
+808,Aurorus,6
+809,Sylveon,6
+810,Hawlucha,6
+811,Dedenne,6
+812,Carbink,6
+813,Goomy,6
+814,Sliggoo,6
+815,Goodra,6
+816,Klefki,6
+817,Phantump,6
+818,Trevenant,6
+819,Pumpkaboo Average Size,6
+820,Pumpkaboo Small Size,6
+821,Pumpkaboo Large Size,6
+822,Pumpkaboo Super Size,6
+823,Gourgeist Average Size,6
+824,Gourgeist Small Size,6
+825,Gourgeist Large Size,6
+826,Gourgeist Super Size,6
+827,Bergmite,6
+828,Avalugg,6
+829,Noibat,6
+830,Noivern,6
+831,Xerneas,6
+832,Yveltal,6
+833,Zygarde 50% Forme,6
+834,Zygarde 10% Forme,6
+835,Zygarde Complete Forme,6
+836,Diancie,6
+837,Mega Diancie,6
+838,Hoopa Hoopa Confined,6
+839,Hoopa Hoopa Unbound,6
+840,Volcanion,6
+841,Rowlet,7
+842,Dartrix,7
+843,Decidueye,7
+844,Litten,7
+845,Torracat,7
+846,Incineroar,7
+847,Popplio,7
+848,Brionne,7
+849,Primarina,7
+850,Pikipek,7
+851,Trumbeak,7
+852,Toucannon,7
+853,Yungoos,7
+854,Gumshoos,7
+855,Grubbin,7
+856,Charjabug,7
+857,Vikavolt,7
+858,Crabrawler,7
+859,Crabominable,7
+860,Oricorio Baile Style,7
+861,Oricorio Pom-Pom Style,7
+862,Oricorio Pa'u Style,7
+863,Oricorio Sensu Style,7
+864,Cutiefly,7
+865,Ribombee,7
+866,Rockruff,7
+867,Own Tempo Rockruff,7
+868,Lycanroc Midday Form,7
+869,Lycanroc Midnight Form,7
+870,Lycanroc Dusk Form,7
+871,Wishiwashi Solo Form,7
+872,Wishiwashi School Form,7
+873,Mareanie,7
+874,Toxapex,7
+875,Mudbray,7
+876,Mudsdale,7
+877,Dewpider,7
+878,Araquanid,7
+879,Fomantis,7
+880,Lurantis,7
+881,Morelull,7
+882,Shiinotic,7
+883,Salandit,7
+884,Salazzle,7
+885,Stufful,7
+886,Bewear,7
+887,Bounsweet,7
+888,Steenee,7
+889,Tsareena,7
+890,Comfey,7
+891,Oranguru,7
+892,Passimian,7
+893,Wimpod,7
+894,Golisopod,7
+895,Sandygast,7
+896,Palossand,7
+897,Pyukumuku,7
+898,Type: Null,7
+899,Silvally,7
+900,Minior Meteor Form,7
+901,Minior Core Form,7
+902,Komala,7
+903,Turtonator,7
+904,Togedemaru,7
+905,Mimikyu,7
+906,Bruxish,7
+907,Drampa,7
+908,Dhelmise,7
+909,Jangmo-o,7
+910,Hakamo-o,7
+911,Kommo-o,7
+912,Tapu Koko,7
+913,Tapu Lele,7
+914,Tapu Bulu,7
+915,Tapu Fini,7
+916,Cosmog,7
+917,Cosmoem,7
+918,Solgaleo,7
+919,Lunala,7
+920,Nihilego,7
+921,Buzzwole,7
+922,Pheromosa,7
+923,Xurkitree,7
+924,Celesteela,7
+925,Kartana,7
+926,Guzzlord,7
+927,Necrozma,7
+928,Dusk Mane Necrozma,7
+929,Dawn Wings Necrozma,7
+930,Ultra Necrozma,7
+931,Magearna,7
+932,Marshadow,7
+933,Poipole,7
+934,Naganadel,7
+935,Stakataka,7
+936,Blacephalon,7
+937,Zeraora,7
+938,Meltan,7
+939,Melmetal,7
+940,Grookey,8
+941,Thwackey,8
+942,Rillaboom,8
+943,Scorbunny,8
+944,Raboot,8
+945,Cinderace,8
+946,Sobble,8
+947,Drizzile,8
+948,Inteleon,8
+949,Skwovet,8
+950,Greedent,8
+951,Rookidee,8
+952,Corvisquire,8
+953,Corviknight,8
+954,Blipbug,8
+955,Dottler,8
+956,Orbeetle,8
+957,Nickit,8
+958,Thievul,8
+959,Gossifleur,8
+960,Eldegoss,8
+961,Wooloo,8
+962,Dubwool,8
+963,Chewtle,8
+964,Drednaw,8
+965,Yamper,8
+966,Boltund,8
+967,Rolycoly,8
+968,Carkol,8
+969,Coalossal,8
+970,Applin,8
+971,Flapple,8
+972,Appletun,8
+973,Silicobra,8
+974,Sandaconda,8
+975,Cramorant,8
+976,Arrokuda,8
+977,Barraskewda,8
+978,Toxel,8
+979,Toxtricity Low Key Form,8
+980,Toxtricity Amped Form,8
+981,Sizzlipede,8
+982,Centiskorch,8
+983,Clobbopus,8
+984,Grapploct,8
+985,Sinistea,8
+986,Polteageist,8
+987,Hatenna,8
+988,Hattrem,8
+989,Hatterene,8
+990,Impidimp,8
+991,Morgrem,8
+992,Grimmsnarl,8
+993,Obstagoon,8
+994,Perrserker,8
+995,Cursola,8
+996,Sirfetch'd,8
+997,Mr. Rime,8
+998,Runerigus,8
+999,Milcery,8
+1000,Alcremie,8
+1001,Falinks,8
+1002,Pincurchin,8
+1003,Snom,8
+1004,Frosmoth,8
+1005,Stonjourner,8
+1006,Eiscue Ice Face,8
+1007,Eiscue Noice Face,8
+1008,Indeedee Male,8
+1009,Indeedee Female,8
+1010,Morpeko Full Belly Mode,8
+1011,Morpeko Hangry Mode,8
+1012,Cufant,8
+1013,Copperajah,8
+1014,Dracozolt,8
+1015,Arctozolt,8
+1016,Dracovish,8
+1017,Arctovish,8
+1018,Duraludon,8
+1019,Dreepy,8
+1020,Drakloak,8
+1021,Dragapult,8
+1022,Zacian Crowned Sword,8
+1023,Zacian Hero of Many Battles,8
+1024,Zamazenta Crowned Shield,8
+1025,Zamazenta Hero of Many Battles,8
+1026,Eternatus,8
+1027,Eternatus Eternamax,8
