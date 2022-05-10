@@ -1,7 +1,6 @@
 -- SQL
 
 CREATE DATABASE `pokemon`;
-DROP TABLE pc_entry;
 CREATE TABLE `pokemon`.`data` (
   `id_number` INT NOT NULL,
   `pokedex_number` INT NULL,
